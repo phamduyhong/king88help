@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+King88 được GEOTRUST chứng nhận là thương hiệu chơi game an toàn!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`King88 <https://king88.help/>`_, xuất hiện trên thị trường đổi thưởng trực tuyến từ năm 2006 tại Costa Rica, đã nhanh chóng khẳng định vị thế của mình với mục tiêu mang lại không gian cá cược công bằng và văn minh. Với hơn 10 triệu hội viên, King88 được GEOTRUST chứng nhận là thương hiệu chơi game an toàn và được cộng đồng game thủ bình chọn là website giải trí hàng đầu. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+King88 nổi bật với giao diện sang trọng, bảo mật chuẩn quốc tế, quy trình làm việc chuyên nghiệp, dịch vụ CSKH 24/7, và giao dịch nhanh chóng. King88 cung cấp đa dạng sản phẩm cá cược, bao gồm nổ hũ, bắn cá, casino trực tuyến, cá độ thể thao, xổ số và các game bài dân gian. Với sự hợp tác cùng các nhà phát hành game hàng đầu, King88 mang đến trải nghiệm giải trí phong phú và hấp dẫn cho người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 377 Hàn Hải Nguyên, Phường 2, Quận 11, Thành phố Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0936610087. 
 
-.. toctree::
+Email: info@king88.help. 
 
-   usage
-   api
+Website: https://king88.help/
+
+#king88 #trangchuking88 #dangkyking88 #nhacaiking88 #linkking88
